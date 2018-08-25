@@ -1,0 +1,21 @@
+{
+    "name": "socialiteproviders/uid",
+    "description": "uid.me OAuth1 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "Alexandr Sisykin",
+        "email": "alexandr.s@ucoz-team.net"
+    }],
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "socialiteproviders/manager": "~2.0 || ~3.0",
+        "ext-curl":"*",
+        "ext-json":"*",
+        "ext-mbstring":"*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SocialiteProviders\\Uid\\": ""
+        }
+    }
+}
