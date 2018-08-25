@@ -1,6 +1,6 @@
 <?php
 
-namespace alexsisukin\SocialiteProviders\Uid;
+namespace AlexSisukin\SocialiteProviders\uid;
 
 use Illuminate\Support\Arr;
 use Laravel\Socialite\Two\ProviderInterface;

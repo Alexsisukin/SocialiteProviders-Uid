@@ -1,6 +1,6 @@
 <?php
 
-namespace alexsisukin\SocialiteProviders\Uid;
+namespace AlexSisukin\SocialiteProviders\uid;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
