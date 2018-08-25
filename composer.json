@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/uid",
+    "name": "alexsisukin/socialiteproviders-uid",
     "description": "uid.me OAuth1 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
